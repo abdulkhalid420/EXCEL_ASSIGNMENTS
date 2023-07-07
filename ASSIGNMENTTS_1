@@ -1,0 +1,20 @@
+1. Cells in Excel serve as the basic building blocks where you can enter and store data, perform calculations, and apply various formatting options. They can contain a wide range of information, including numbers, text, dates, formulas, and even images.
+2. To restrict someone from copying a cell in Excel:
+•	Select the cell.
+•	Right-click and choose "Format Cells."
+•	Uncheck "Locked" under the "Protection" tab.
+•	Protect the worksheet under the "Review" tab.
+3. To move or copy a worksheet into another workbook:
+•	Right-click on the worksheet tab.
+•	Select "Move or Copy."
+•	Choose the destination workbook.
+•	Click "OK."
+4. The key used as a shortcut for opening a new window document in most applications, including Microsoft Windows, is "Ctrl" (Control) + "N."
+5.  After opening the Excel interface, you can notice:
+•	Ribbon with various tabs and commands.
+•	Worksheet grid for data entry and manipulation.
+•	Formula Bar for entering and editing formulas.
+•	Name Box for cell navigation.
+•	Status Bar for status and additional features.
+•	Quick Access Toolbar for quick command access.
+6. Relative cell references in Excel are used when you want formulas to adjust based on their new location when copied or filled.
